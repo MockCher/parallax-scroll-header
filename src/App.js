@@ -1,3 +1,5 @@
+// transformed web dev simplified's video to component
+
 import ParalaxHeader from "./ParalaxHeader";
 import "./styles.css";
 
